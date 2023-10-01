@@ -22,7 +22,7 @@ Contributor.txt Details to be entered:
 Actual Name:
 Username:
 Issue ID:
-Chnages Summary (in one sentence):
+Changes Summary (in one sentence):
 ```
 <br>
 
