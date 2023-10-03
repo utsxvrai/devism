@@ -1,0 +1,4 @@
+Actual Name: Aditya Sachan
+Username: Sachan-aditya
+Issue ID: 1
+Changes Summary (in one sentence): A basic dictionary app made using svelte
