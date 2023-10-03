@@ -24,7 +24,7 @@ class Contact extends StatelessWidget {
                   child: Padding(
                     padding: const EdgeInsets.all(8.0),
                     child: ListTile(
-                        title: Text(info[index]['name'].toString(),
+                        title: Text(info[index]['namee'].toString(),
                             style: TextStyle(fontSize: 18)),
                         subtitle: Padding(
                           padding: EdgeInsets.only(top: 6),

@@ -1,6 +1,6 @@
 const info = [
   {
-    'name': ' Selmon ',
+    'name': ' SALMAN K',
     'message': 'Needs a car drive?',
     'time': '3:53 pm',
     'profilePic':
@@ -8,7 +8,7 @@ const info = [
   },
   {
     'name': 'ALone Musk ',
-    'message': 'Can I buy this , Zuck will be happy',
+    'message': 'Can I buy this ',
     'time': '2:25 pm',
     'profilePic':
         'https://i.guim.co.uk/img/media/b10f15a0955d23826586810847cc3431e36616f1/0_508_2065_1238/master/2065.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=b6b0e2df577f6dc993d68b672483ef58',
@@ -22,7 +22,7 @@ const info = [
   },
   {
     'name': 'Vkohli',
-    'message': 'EE sala cup namde',
+    'message': 'WE NEED TO FIGHT ',
     'time': '12:06 pm',
     'profilePic':'https://www.forbesindia.com/media/images/2022/Aug/img_192351_viratkohli.jpg'
         ,
