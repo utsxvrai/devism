@@ -1,4 +1,0 @@
-Actual Name: Shashwat Pratap Singh
-Username: ShashwatPS
-Issue ID: 4
-Changes Summary (in one sentence): This is a simple API to perform CRUD operations on a Todo model, with endpoints for retrieving, creating, updating, and deleting todos.
